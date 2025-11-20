@@ -30,7 +30,7 @@ A comprehensive Spanish learning platform built with Next.js 14, featuring AI-po
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/fluento-ai.git
+   git clone https://github.com/engrzani/Avtar_fluento-AI.git
    cd fluento-ai
    ```
 
